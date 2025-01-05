@@ -1,0 +1,2 @@
+# jswork
+Differents Javascript exercises 
